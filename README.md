@@ -1,2 +1,0 @@
-# saferides-live
-saferides.live
